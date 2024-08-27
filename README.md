@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there, I'm Abanoub 👋
 
-<!--
-**AbanoubHabib/AbanoubHabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Flutter Developer | Passionate About Building Mobile Experiences
 
-Here are some ideas to get you started:
+I'm a dedicated Flutter developer with a passion for creating seamless, responsive, and user-friendly mobile applications. My journey in app development is fueled by a constant drive to learn, innovate, and achieve new milestones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+- ![Hive](https://img.shields.io/badge/Hive-2C3A47?style=flat-square&logo=hive&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat-square&logo=bloc&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![RESTful API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+
+### 🌱 What I’m Currently Working On
+
+- Enhancing my skills in **Flutter** with advanced UI/UX techniques.
+-  Developing a significant project with exciting features and challenges. I’ll share more details as soon as possible!
+
+### 📚 What I’m Learning
+
+- Exploring **State Management** solutions like **Bloc** with **Hive** integration.
+- Delving deeper into **clean architecture** and **best coding practices** for scalable apps.
+- Expanding my knowledge in working with **APIs** to build robust and dynamic applications.
+
+### 💡 My Goals
+
+- Build and contribute to open-source Flutter projects.
+- Master advanced Flutter animations and performance optimizations.
+- Collaborate with other developers on innovative projects.
+
+### 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&label=Abanoub%20Habib)](https://www.linkedin.com/in/abanoub-habib-81a3a9220) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&label=AbanoubHabib)](https://github.com/AbanoubHabib)
+
+### ⚡ Fun Fact
+
+When I'm not coding, you'll find me exploring new tech trends, reading up on design principles, or catching up on the latest in mobile development!
